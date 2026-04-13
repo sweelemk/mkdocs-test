@@ -4,7 +4,10 @@
 
 **Product** is a powerful platform that helps teams build, ship, and scale with confidence. This documentation covers everything from initial setup to advanced configuration.
 
-[Download PDF :material-file-pdf-box:](pdf/document.pdf){ .md-button .md-button--primary download }
+[Complete Guide :material-file-pdf-box:](pdf/complete.pdf){ .md-button .md-button--primary download }
+[Home](pdf/home.pdf){ .md-button download }
+[Getting Started](pdf/getting-started.pdf){ .md-button download }
+[Features](pdf/features.pdf){ .md-button download }
 
 ## Quick Navigation
 
