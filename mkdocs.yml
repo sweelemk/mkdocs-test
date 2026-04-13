@@ -49,35 +49,12 @@ plugins:
       author: Your Name
       copyright: Copyright &copy; 2024 Your Company
       cover_title: Product Documentation
-      cover_subtitle: Complete Guide
-      output_path: pdf/complete.pdf
-  - with-pdf:
-      author: Your Name
-      copyright: Copyright &copy; 2024 Your Company
-      cover_title: Product Documentation
-      cover_subtitle: Home
-      output_path: pdf/home.pdf
-      exclude_pages:
-        - 'getting-started'
-        - 'features'
-  - with-pdf:
-      author: Your Name
-      copyright: Copyright &copy; 2024 Your Company
-      cover_title: Product Documentation
-      cover_subtitle: Getting Started
-      output_path: pdf/getting-started.pdf
-      exclude_pages:
-        - '^$'
-        - 'features'
-  - with-pdf:
-      author: Your Name
-      copyright: Copyright &copy; 2024 Your Company
-      cover_title: Product Documentation
-      cover_subtitle: Features
-      output_path: pdf/features.pdf
+      cover_subtitle: Video Demo
+      output_path: pdf/video-demo.pdf
       exclude_pages:
         - '^$'
         - 'getting-started'
+        - '^features/$'
 
 markdown_extensions:
   - admonition
