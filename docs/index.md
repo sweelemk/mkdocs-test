@@ -4,6 +4,8 @@
 
 **Product** is a powerful platform that helps teams build, ship, and scale with confidence. This documentation covers everything from initial setup to advanced configuration.
 
+[Download PDF :material-file-pdf-box:](pdf/document.pdf){ .md-button .md-button--primary download }
+
 ## Quick Navigation
 
 - :material-rocket-launch: **[Getting Started](getting-started/index.md)** — Install and configure Product in minutes. Step-by-step guide to get up and running quickly.
