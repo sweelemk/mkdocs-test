@@ -67,7 +67,7 @@ plugins:
       cover_subtitle: Getting Started
       output_path: pdf/getting-started.pdf
       exclude_pages:
-        - '^\.'
+        - '^$'
         - 'features'
   - with-pdf:
       author: Your Name
@@ -76,7 +76,7 @@ plugins:
       cover_subtitle: Features
       output_path: pdf/features.pdf
       exclude_pages:
-        - '^\.'
+        - '^$'
         - 'getting-started'
 
 markdown_extensions:
