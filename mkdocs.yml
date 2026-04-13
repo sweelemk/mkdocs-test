@@ -1,7 +1,7 @@
 site_name: Product Documentation
 site_description: A complete example of Material for MkDocs with rich content and PDF export
 site_author: Your Name
-site_url: https://example.com
+site_url: https://sweelemk.github.io/mkdocs-test/
 
 theme:
   name: material
